@@ -79,6 +79,14 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
+
+## 🚀 Heroku Deployment
+
+<h4>Click the button below to deploy on Heroku!</h4>    
+
+
+> Want detailed explanation of Heroku Deployment? [Click Here](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/heroku)
+
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
